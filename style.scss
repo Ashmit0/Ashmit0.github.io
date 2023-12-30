@@ -6,6 +6,7 @@
     $ CUSTOM TYPEFACE
 /**************************************/
 /* ET Book Regular */
+
 @font-face {
   font-family: "et-book";
   src: url("/fonts/et-book-roman-line-figures.eot");
@@ -354,9 +355,10 @@ nav {
 
 }
 
-/* Dark Mode */
+/* Dark Mode 
 @media (prefers-color-scheme: dark) {
     body{background:#191919;filter:invert(1);}
     .highlight{border-color: grey !important;}
     img,iframe,.highlight,a:hover,a:focus{filter:invert(1);}
 }
+*/
