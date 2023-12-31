@@ -5,15 +5,24 @@ description: Ashimt's detailed personal cv
 --- 
 
 ## Education 
-<hr>
-iitk 
+<figure>
+    <table>
+        <tbody>
+            <tr>
+                <th> Indian Institute of Technology Kanpur </th>
+                <td> BS in Physics & Double Major in Mathematics and Scientific Computing <\td>
+                <td> 2021-26 </td>
+            </tr>
+        </tbody>
+    </table>
+</figure>
 
 ## Research Experiance 
-<hr>
+
 ## Projects 
 
 ## Additional Engagements 
-<hr>
+
 ## Scholastic Achivements 
 
 ## Technical Skills 
